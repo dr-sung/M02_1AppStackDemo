@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">M02_1AppStackDemo</string>
+    <string name="activity2_name">Second Activity</string>
+    <string name="activity3_name">Third Activity</string>
+    <string name="info">Press [Back] button to quit this App.
+        Or press Button below to launch another activity</string>
+    <string name="info_second_activity">This is the 2nd activity.
+        Press [Back] button to return to the first activity.
+        Or press Button below to launch a 3rd activity</string>
+    <string name="info_third_activity">This is the 3rd activity.
+        Press [Back] button to return to the 2nd activity.</string>
+    <string name="launch_button">Launch Activity</string>
+    <string name="second_activity_name">Second Activity</string>
+    <string name="third_activity_name">Third Activity</string>
+</resources>
